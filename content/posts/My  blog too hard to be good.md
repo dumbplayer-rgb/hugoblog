@@ -11,3 +11,4 @@ I started this blog on 27/09/25 and tried to make it as easy as possible but ins
 
 What I should have done:
 !![Image Description](/images/Pasted%20image%2020250927164903.png)
+

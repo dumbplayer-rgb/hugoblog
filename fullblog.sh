@@ -84,9 +84,9 @@ else
     git commit -m "$commit_message"
 fi
 
-# Step 7: Push all changes to the main branch
+# Step 7: Push all changes to the master branch
 echo "Deploying to GitHub master..."
-if ! git push origin main; then
+if ! git push origin master; then
     echo "Failed to push to master branch."
     exit 1
 fi

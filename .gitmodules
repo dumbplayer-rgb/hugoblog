@@ -1,0 +1,15 @@
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "themes/themes/terminal"]
+	path = themes/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "themes/github.com/panr/huighugo-theme-terminal/hugo-theme-terminal/v4/terminal"]
+	path = themes/github.com/panr/huighugo-theme-terminal/hugo-theme-terminal/v4/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "themes/github.com/panr/hugo-theme-terminal/v4/v4/terminal"]
+	path = themes/github.com/panr/hugo-theme-terminal/v4/v4/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "themes/github.com/panr/hugo-theme-terminal/v4/terminal"]
+	path = themes/github.com/panr/hugo-theme-terminal/v4/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git

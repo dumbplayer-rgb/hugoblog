@@ -6,21 +6,14 @@
     <description>Recent content in Posts on Terminal</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Blog</title>
-      <link>/posts/my--blog-too-hard-to-be-good/</link>
-      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/my--blog-too-hard-to-be-good/</guid>
-      <description>&lt;p&gt;I started this blog on 27/09/25 and tried to make it as easy as possible but instead I made it harder than it should be.&lt;/p&gt;&#xA;&lt;p&gt;What I should have done:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>/posts/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/test/</guid>
-      <description></description>
+      <link>/posts/first-post-on-this-blog/</link>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/first-post-on-this-blog/</guid>
+      <description>&lt;p&gt;The first post on this blog I wanted to focus on how I made it and how long it took. I rarely code websites so I watched my go to YouTuber for stuff like this. Network Chuck who had an amazing video for making a blog with obsidian, Hugo and Hostinger (I used Netlify because it&amp;rsquo;s free up to a certain point of visits).&lt;/p&gt;&#xA;&lt;p&gt;I wanted a blog to write all of my ideas and complaints about things and the comanys behind them. So I did some googling on the easiest way to make a blog and came across a video by a man named Chuck Keith on the YouTube channel NetworkChuck &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=dnE7c0ELEH8&amp;amp;t=1929s%22&#34;&gt;https://www.youtube.com/watch?v=dnE7c0ELEH8&amp;t=1929s&#34;&lt;/a&gt; that went through making a blog with obsidian and a ultimate script to move the obsidian files to the website directory and push it to github so Netlify builds and deploys it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
